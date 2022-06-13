@@ -7,7 +7,7 @@
 <!-- ./STAT -->
 <div align="center">
     <a href="https://skyline.github.com/AlexNewHere/2022" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNewHere&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNewHere&hide_border=true&stroke=888&ring=F6366FFF&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=F6366FFF&background=0000"
              title="AlexNewHere" 
              alt="AlexNewHere"
              width="60%"/>
@@ -15,13 +15,13 @@
 </div>
 <div align="center">
     <a href="https://github.com/AlexNewHere?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlexNewHere&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexNewHere&show_icons=true&count_private=true&hide_border=true&title_color=F6366FFF&text_color=888&icon_color=F6366FFF&bg_color=0000"
              title="AlexNewHere github repositories" 
              alt="AlexNewHere github stats"
              width="49%"/>
     </a>
     <a href="https://github.com/AlexNewHere?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNewHere&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNewHere&&layout=compact&hide_border=true&title_color=F6366FFF&text_color=888&bg_color=0000"
              title="AlexNewHere github repositories"
              alt="AlexNewHere github stats"
              width="41%"/>
